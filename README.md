@@ -57,18 +57,6 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikantmishra&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikantmishra&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantmishra&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Highlight Projects
 
