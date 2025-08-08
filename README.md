@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  🎓 B.Tech Student at <strong>GLA University, Mathura</strong><br/>
+  🎓 <strong> CS Undergrad </strong><br/>
   👨‍💻 I build responsive, scalable, and user-friendly web applications<br/>
   📫 Reach me at: <strong>manibhardwaj2006@gmail.com</strong><br/>
 </p>
