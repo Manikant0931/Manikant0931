@@ -9,6 +9,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Working Developer" width="600"/>
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a passionate **Full Stack Developer** who loves writing clean, efficient code and crafting seamless user experiences.  
@@ -64,23 +70,23 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Highlight Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikantmishra&theme=radical&row=2&column=3" />
-</p>
+> ⭐ _Pin your best repositories on your GitHub profile manually._
+
+Recommended pins:
+- 💻 Portfolio Website – React.js based portfolio with contact form
+- 📝 Blog Platform – MERN stack blog with login system
+- 📦 Task Manager API – Express.js + MongoDB REST API
 
 ---
 
-## 🔥 Highlight Projects
+## 🎮 Snake Eating My Contribution Graph
 
-> ⭐ _Manually pin your top repositories on your GitHub profile for better visibility._
-
-Here are some project ideas to pin:
-- 💻 **Portfolio Website** – React.js based portfolio with contact form
-- 📝 **Blog Platform** – MERN stack blog with user login
-- 📦 **Task Manager API** – Express.js + MongoDB REST API
-- 🎨 **UI Components Library** – Reusable React components
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -104,4 +110,4 @@ Here are some project ideas to pin:
 
 ---
 
-<!-- Proudly crafted with ❤️ by Manikant Mishra |
+<!-- Crafted with ❤️ by Manikant Mishra |
