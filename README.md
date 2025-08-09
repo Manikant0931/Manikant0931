@@ -9,9 +9,9 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Working Developer" width="600"/>
-</div>
+</p>
 
 ---
 
@@ -57,28 +57,61 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 
 ---
 
-
 ## 🔥 Highlight Projects
 
 > ⭐ _Pin your best repositories on your GitHub profile manually._
 
-Recommended pins:
-- 💻 Portfolio Website – React.js based portfolio with contact form
-- 📝 Blog Platform – MERN stack blog with login system
-- 📦 Task Manager API – Express.js + MongoDB REST API
+- 💻 **Portfolio Website** – React.js based portfolio with contact form  
+- 📝 **Blog Platform** – MERN stack blog with login/authentication  
+- 📦 **Task Manager API** – Express.js + MongoDB REST API  
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikant-mishra&theme=radical&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikant-mishra&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikant-mishra&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikant-mishra&layout=compact&theme=radical&langs_count=10"/>
+</p>
+
+---
+
+## 🌱 Contribution Calendar
+
+[![Manikant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikant-mishra&bg_color=1a1b27&color=38bdae&line=58a6ff&point=f5a425&area=true&hide_border=true)](https://github.com/manikant-mishra)
 
 ---
 
 ## 🎮 Snake Eating My Contribution Graph
 
-<!-- Snake Game Repo View -->
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</p>
 
 ---
 
-## ✍️ Quote for Devs
+## 🏅 Certifications & Achievements
+
+- 🎖️ **JavaScript Algorithms and Data Structures** – freeCodeCamp  
+- 🏆 **Responsive Web Design** – freeCodeCamp  
+- 👨‍💻 **Git & GitHub Mastery** – Coursera  
+- 🔐 **Cybersecurity Basics** – Google Career Certificates
+
+---
+
+## ✍️ Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -86,16 +119,40 @@ Recommended pins:
 
 ---
 
+## 💡 Fun Facts
+
+- 🕹 I love building clones of real-world apps to understand their architecture.  
+- 💬 I can talk for hours about JavaScript quirks and DevOps pipelines.  
+- 🌐 I believe Open Source is the future of innovation.
+
+---
+
+## 📂 Portfolio | Resume | LinkedIn
+
+<p align="center">
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-121212?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://yourresume.com" target="_blank"><img src="https://img.shields.io/badge/📄 Resume-121212?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=red"/></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 💼 I'm open to:
-- 💻 Remote internships
-- 🤝 Freelance collaboration
-- 🚀 Tech content creation
+- 💻 Remote internships  
+- 🤝 Freelance collaboration  
+- 🚀 Tech content creation  
 
 📧 **manibhardwaj2006@gmail.com**  
 📍 India
 
 ---
 
-<!-- Crafted with ❤️ by Manikant Mishra |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manikant-mishra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Crafted with ❤️ by Manikant Mishra -->
