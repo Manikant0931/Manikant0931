@@ -98,24 +98,7 @@ Recommended pins:
 <!-- ADDITIONAL COOL SECTIONS BELOW (NOT EDITING YOUR ORIGINAL) -->
 <!-- ----------------------------------------------------------- -->
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manikant-Mishra&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikant-Mishra&theme=radical" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-Mishra&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manikant-Mishra&theme=radical&no-bg=true&no-frame=true" />
-</p>
-
----
 
 ## ⚡ Developer Summary Cards  
 <p align="center">
