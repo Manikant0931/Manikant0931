@@ -94,20 +94,7 @@ Recommended pins:
 
 ---
 
-<!-- ----------------------------------------------------------- -->
-<!-- ADDITIONAL COOL SECTIONS BELOW (NOT EDITING YOUR ORIGINAL) -->
-<!-- ----------------------------------------------------------- -->
 
-
-
-## ⚡ Developer Summary Cards  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikant-Mishra&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manikant-Mishra&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manikant-Mishra&theme=radical"/>
-</p>
-
----
 
 ## 🔗 Important Links  
 <p align="center">
@@ -119,14 +106,6 @@ Recommended pins:
   </a>
 </p>
 
----
-
-## 👀 Profile Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikant-Mishra&color=blueviolet&style=flat-square"/>
-</p>
-
----
 
 ## 🎖️ Fun Badges  
 <p align="center">
