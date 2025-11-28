@@ -1,41 +1,54 @@
+👋 Hi, I'm Manikant Mishra
+<h3 align="center">🚀 Full Stack Developer | Tech Explorer | Problem Solver</h3> <p align="center"> 🎓 <strong>CS Undergrad</strong> <br/> 👨‍💻 I build scalable, fast & interactive full-stack apps <br/> 📫 <strong>manibhardwaj2006@gmail.com</strong> </p>
+<div align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="coding"/> </div>
+🧑‍💻 About Me
 
-Manikant Mishra
-Full Stack Developer • CS Undergrad
-<br/> <p align="center"> Building reliable, scalable and user-centric applications with clean engineering principles. </p>
-About Me
+Passionate Full Stack Developer focused on building clean, efficient and modern web applications.
+From API-building to UI-designing — I enjoy the complete dev journey.
 
-I am a Full Stack Developer focused on simplicity, clarity, and real-world problem-solving.
-I enjoy designing well-structured systems, intuitive interfaces, and efficient backend logic.
+🌍 Living in India
 
-🇮🇳 Based in India
+🔥 Love exploring new tech & tools
 
-🔍 Curious learner — always exploring modern tech
+🤝 Open for internships, collabs, and freelance projects
 
-🤝 Open to collaborations, internships & freelance work
-
-Technical Expertise
-Languages & Frameworks
+📊 Profile Views & Stats
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manikant-Mishra&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manikant-Mishra&theme=radical&no-frame=true&margin-w=10" /> </p>
+🛠️ Tech Stack
+⚡ Languages & Frameworks
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python" /> </p>
-Databases
+🗄️ Databases & Cloud
 <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </p>
-Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" /> </p>
-GitHub Insights
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manikant-Mishra&show_icons=true&hide_border=true&theme=github_light" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Manikant-Mishra&theme=default&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-Mishra&layout=compact&hide_border=true&theme=github_light" /> </p>
-Featured Projects
+🔧 Tools & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" /> </p>
+🚀 My GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manikant-Mishra&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikant-Mishra&theme=radical" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikant-Mishra&layout=compact&theme=radical" /> </p>
+🔥 Highlight Projects
 
-Select these as your pinned repositories for a cleaner profile.
+⭐ Pin these projects in GitHub — Profile → Customize → Pinned Repos
 
-Portfolio Website – React + Tailwind
+🌐 Portfolio Website – React-based dynamic portfolio
 
-MERN Blog Platform – CRUD, Authentication
+✍️ MERN Blog Platform – Auth, CRUD, rich text editor
 
-Task Manager API – Node.js + MongoDB REST API
+📦 TaskManager API – JWT auth + MongoDB REST API
 
-Let’s Connect
+🐍 Snake Eating My Contribution Graph
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </div>
+✍️ Daily Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </p>
+📫 Connect With Me
+
+💼 Open for:
+
+💻 Internships
+
+🤝 Freelance Work
+
+🎥 Tech Content + Collabs
 
 📧 manibhardwaj2006@gmail.com
 
 📍 India
 
-<p align="center"> — *Professional. Minimal. Effective.* </p>
+❤️ Crafted with passion by Manikant Mishra
