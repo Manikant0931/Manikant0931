@@ -95,7 +95,7 @@ I'm open to:
 
 ##  Important Links: 
 <p align="center">
-<a href="https://portfolio-website-mani.netlify.app/" target="_blank">
+<a href="https://manikant-portfolio-website.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:db1036cb-829f-49d1-a3aa-3ae928f6f82c" target="_blank">
